@@ -6,6 +6,9 @@ import Slide from 'react-reveal/Slide';
 // we'll use styled components for this tutorial
 // but you can use any other styling options ( like plain old css )
 import styled, { css } from 'styled-components';
+// import fris1 from './public/images/fris1.png';
+// import fris2 from './public/images/fris2.png';
+// import fris3 from 'images/fris3.png';
 
 class Portfolio extends Component {
 	render() {

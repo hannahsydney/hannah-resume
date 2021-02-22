@@ -1,0 +1,138 @@
+{
+	"main": {
+		"name": "Hannah",
+		"occupation": "Software Engineer",
+		"description": "",
+		"bio": "Hello! I'm a 4th year Software Engineering student at the University of New South Wales. As a UNSW Co-op Scholar, I have undertaken internships with Atlassian and Optus, and will soon begin a new internship with CBA. At university, I was the President of the UNSW Co-op Society, and travelled to India under the New Colombo Plan Mobility Grant. In my spare time, I love to play Ultimate Frisbee and basketball, read and write, and play music.",
+		"contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+		"email": "hannah.chen1109@gmail.com",
+		"phone": "555-555-5555",
+		"address": {
+			"street": "(Your Street)",
+			"city": "Sydney",
+			"state": "(Your State)",
+			"zip": "(Your Zip/Postal Code)"
+		},
+		"website": "",
+		"resumedownload": "https://drive.google.com/file/d/10Z13NjZMGTAIP-wFOffC2NY-t_Ml1jIJ/view?usp=sharing",
+		"social": [
+			{
+				"name": "linkedin",
+				"url": "https://www.linkedin.com/in/hannahchen2020/",
+				"className": "fa fa-linkedin"
+			},
+			{
+				"name": "instagram",
+				"url": "https://www.instagram.com/_shelf.life/",
+				"className": "fa fa-instagram"
+			},
+			{
+				"name": "gmail",
+				"url": "mailto:hannah.chen1109@gmail.com",
+				"className": "fa fa-envelope"
+			}
+		]
+	},
+	"resume": {
+		"skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+		"education": [
+			{
+				"school": "University of New South Wales",
+				"degree": "Bachelor of Software Engineering (Honours) (Co-op)",
+				"graduated": "2018 - Present",
+				"description": "President of UNSW Co-op Society, CSESoc DevOps Subcommittee, UNSW Ultimate Club."
+			},
+			{
+				"school": "Hornsby Girls High School",
+				"degree": "Higher School Certificate",
+				"graduated": "2017",
+				"description": "99.80 ATAR, 3rd in NSW in Information Process Technology (IPT) - Top Achievers List, School Prefect, String Ensemble Concertmaster (First Violin).",
+				"extracurriculars": ""
+			}
+		],
+		"work": [
+			{
+				"company": "Atlassian",
+				"title": "Software Developer Intern",
+				"years": "September 2019 - August 2020",
+				"description": "Completed a 6 month internship with Atlassian, and continued on as a junior developer. Frontend product development on Atlassian's flagship product, Jira Software using Javascript/React and CSS."
+			},
+			{
+				"company": "Optus",
+				"title": "DevOps Engineer Intern",
+				"years": "September 2020 - Present",
+				"description": "Undertaking a 6 month placement at Optus, in the Cloud and Containers team. Working closely with the RedHat OpenShift Platform to provide support to internal Optus teams who are utilising cloud and container services."
+			},
+			{
+				"company": "Private Tutor",
+				"title": "English and Maths",
+				"years": "2018 - Present",
+				"description": "Specialised one-on-one tutoring of high school level English and Mathematics."
+			}
+		],
+		"skills": [
+			{
+				"name": "Git",
+				"level": "60%"
+			},
+			{
+				"name": "Illustrator",
+				"level": "55%"
+			},
+			{
+				"name": "ReactJs",
+				"level": "50%"
+			},
+			{
+				"name": "CSS",
+				"level": "90%"
+			},
+			{
+				"name": "HTML5",
+				"level": "80%"
+			},
+			{
+				"name": "VueJs",
+				"level": "50%"
+			},
+			{
+				"name": "MongoDB",
+				"level": "80%"
+			}
+		]
+	},
+	"portfolio": {
+		"projects": [
+			{
+				"title": "Canadian Wanderlust",
+				"category": "My Travel Blog for my post-university travels",
+				"image": "canadian-wanderlust.jpg",
+				"url": "https://www.canadianwanderlust.com"
+			},
+			{
+				"title": "Fury Fighting Gear",
+				"category": "(offline now) A fighting gear company I started",
+				"image": "fury-fighting-gear.jpg",
+				"url": "http://www.timbakerdev.com"
+			},
+			{
+				"title": "Original Thai Food",
+				"category": "Website I built for a restaurant I like in Thailand",
+				"image": "original-thai-food.jpg",
+				"url": "http://www.timbakerdev.com/originalthaifood.github.io"
+			},
+			{
+				"title": "Resume Website",
+				"category": "A React based resume website template",
+				"image": "resume-website.jpg",
+				"url": "http://www.timbakerdev.com"
+			},
+			{
+				"title": "Smirkspace",
+				"category": "(MVP Only) A React and Meteor based chat University project.",
+				"image": "smirkspace.jpg",
+				"url": "http://www.smirkspace.com"
+			}
+		]
+	}
+}
