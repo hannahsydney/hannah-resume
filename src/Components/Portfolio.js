@@ -56,7 +56,7 @@ class Portfolio extends Component {
 					<Slide right>
 						<div
 							style={{
-								backgroundImage: 'url("images/fris1.png")',
+								backgroundImage: 'url("public/images/fris1.png")',
 								height: '100%',
 								backgroundSize: 'cover',
 								backgroundPosition: 'bottom',
@@ -68,7 +68,7 @@ class Portfolio extends Component {
 					<Slide right>
 						<div
 							style={{
-								backgroundImage: 'url("images/fris2.png")',
+								backgroundImage: 'url("public/images/fris2.png")',
 								height: '100%',
 								backgroundSize: 'cover',
 								backgroundPosition: 'bottom',
