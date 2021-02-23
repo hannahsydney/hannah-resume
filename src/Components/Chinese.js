@@ -17,14 +17,17 @@ class Chinese extends Component {
 							<br />
 							<blockquote>
 								<p>
-									我成长为具有中国传统的澳大利亚人，所以我一直对普通话和语言学感兴趣。我目前正在使用 CultureStride 学习普通话，并且已经在 UNSW
-									完成了背景演讲者入门汉语课程，最终成绩达到 92.
+									我是华裔澳洲人，在澳洲出生、长大。所以我一直对普通话和中国语言学感兴趣。我目前通过网上教学的课程{' '}
+									<a href="https://www.culturestride.com" style={{ color: 'inherit' }}>
+										CultureStride
+									</a>{' '}
+									学习普通话。目前我已经在 UNSW 完成了非母语课程的中文初级班，并且获得 92 分的优等成绩。
 								</p>
 								<p>
 									Growing up as an Australian with a Chinese heritage, I have always been interested
 									in Mandarin and liguistics. I'm currently studying Mandarin Chinese with the online
 									language school,{' '}
-									<a href="culturestride.com" style={{ color: 'inherit' }}>
+									<a href="https://www.culturestride.com" style={{ color: 'inherit' }}>
 										CultureStride
 									</a>. I have also completed Introductory Chinese for Background Speakers at UNSW,
 									achieving a final grade of 92.
