@@ -3,7 +3,7 @@
 		"name": "Hannah",
 		"occupation": "Software Engineer",
 		"description": "",
-		"bio": "Hello! I'm a 4th year Software Engineering student at the University of New South Wales. As a UNSW Co-op Scholar, I have undertaken internships with Atlassian and Optus, and will soon begin a new internship with CBA. At university, I was the President of the UNSW Co-op Society, and travelled to India under the New Colombo Plan Mobility Grant. In my spare time, I love to play Ultimate Frisbee and basketball, read and write, and play music. Currently, I am undertaking the UNSW Web Front-End Programming course, COMP6080.",
+		"bio": "Hello! I'm a 4th year Software Engineering student at the University of New South Wales. As a UNSW Co-op Scholar, I have undertaken internships with Atlassian and Optus, and will soon begin a new internship with CBA. At university, I was the President of the UNSW Co-op Society, and travelled to India under the New Colombo Plan Mobility Grant. In my spare time, I love to play Ultimate Frisbee and basketball, read and write, and play music. Currently, I am undertaking the UNSW Web Front-End Programming course, COMP6080. I was also recently selected into the 2021 cohort of the prestigious Westpac Asian Exchange Scholarship. I hope to undertake my exchange program in China in 2022.",
 		"contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
 		"email": "hannah.chen1109@gmail.com",
 		"phone": "555-555-5555",
@@ -40,7 +40,7 @@
 				"school": "University of New South Wales",
 				"degree": "Bachelor of Software Engineering (Honours) (Co-op)",
 				"graduated": "2018 - Present",
-				"description": "President of UNSW Co-op Society, CSESoc DevOps Subcommittee, UNSW Ultimate Club."
+				"description": "UNSW Co-op Scholar, President of UNSW Co-op Society, CSESoc DevOps Subcommittee, UNSW Ultimate Club."
 			},
 			{
 				"school": "Hornsby Girls High School",
@@ -52,6 +52,12 @@
 		],
 		"work": [
 			{
+				"company": "Commonwealth Bank of Australia",
+				"title": "Mobile iOS Engineer Intern",
+				"years": "March 2021 - Present",
+				"description": "Undertaking a 6 month internship with CBA as a mobile frontend iOS Engineer working on the CommBank app."
+			},
+			{
 				"company": "Atlassian",
 				"title": "Software Developer Intern",
 				"years": "September 2019 - August 2020",
@@ -60,8 +66,8 @@
 			{
 				"company": "Optus",
 				"title": "DevOps Engineer Intern",
-				"years": "September 2020 - Present",
-				"description": "Undertaking a 6 month placement at Optus, in the Cloud and Containers team. Working closely with the RedHat OpenShift Platform to provide support to internal Optus teams who are utilising cloud and container services."
+				"years": "September 2020 - February 2021",
+				"description": "Completed a 6 month placement at Optus, in the Cloud and Containers team. Working closely with the RedHat OpenShift Platform to provide support to internal Optus teams who are utilising cloud and container services."
 			},
 			{
 				"company": "Private Tutor",
