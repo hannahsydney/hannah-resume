@@ -3,7 +3,7 @@
 		"name": "Hannah",
 		"occupation": "Software Engineer",
 		"description": "",
-		"bio": "Hello! I'm a 4th year Software Engineering student at the University of New South Wales. As a UNSW Co-op Scholar, I have undertaken internships with Atlassian and Optus, and am currently undertaking an internship with CBA. At university, I was the President of the UNSW Co-op Society, and travelled to India under the New Colombo Plan Mobility Grant. In my spare time, I love to play Ultimate Frisbee and basketball, read and write, and play music. Currently, I am undertaking the UNSW Web Front-End Programming course, COMP6080. I was also recently selected into the 2021 cohort of the prestigious Westpac Asian Exchange Scholarship program. I hope to undertake my exchange program in China in 2022.",
+		"bio": "Hello! I'm a final year Software Engineering student at the University of New South Wales. As a UNSW Co-op Scholar, I have undertaken internships with Atlassian and Optus, and CBA. Most recently, I completed a summer internship at Canva as frontend engineer. At university, I was the President of the UNSW Co-op Society, and travelled to India under the New Colombo Plan Mobility Grant. In my spare time, I love to play Ultimate Frisbee and basketball, read and write, and play music. Currently, I am undertaking the UNSW Web Front-End Programming course, COMP6080. I was also recently selected into the 2021 cohort of the prestigious Westpac Asian Exchange Scholarship program. I hope to undertake my exchange program in China in 2022.",
 		"contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
 		"email": "hannah.chen1109@gmail.com",
 		"phone": "555-555-5555",
@@ -14,7 +14,7 @@
 			"zip": "(Your Zip/Postal Code)"
 		},
 		"website": "",
-		"resumedownload": "https://drive.google.com/file/d/1DR0Vz_L5xdmqqB2dt7gRt7XuSyq_aepm/view?usp=sharing",
+		"resumedownload": "https://www.canva.com/design/DAEaztelDZ8/8klXIL9U_v_j-6x9IG_xtg/view?website#4:extra-curricular-activities-volunteer-work",
 		"social": [
 			{
 				"name": "linkedin",
@@ -40,7 +40,7 @@
 				"school": "University of New South Wales",
 				"degree": "Bachelor of Software Engineering (Honours) (Co-op)",
 				"graduated": "2018 - Present",
-				"description": "UNSW Co-op Scholar, President of UNSW Co-op Society, CSESoc DevOps Subcommittee, UNSW Ultimate Club."
+				"description": "UNSW Co-op Scholar, President of UNSW Co-op Society, UNSW Burgundian Consort, UNSW Orchestra, CSESoc DevOps Subcommittee, UNSW Ultimate Club."
 			},
 			{
 				"school": "Hornsby Girls High School",
@@ -52,10 +52,16 @@
 		],
 		"work": [
 			{
+				"company": "Canva",
+				"title": "Fronted Engineer Intern",
+				"years": "December 2021 - February 2022",
+				"description": "Completed a 3 month internship with Canva as a frontend engineer working on Presentations in Canva. Check out the new magic shortcuts available!"
+			},
+			{
 				"company": "Commonwealth Bank of Australia",
 				"title": "Mobile iOS Engineer Intern",
 				"years": "March 2021 - Present",
-				"description": "Undertaking a 6 month internship with CBA as a mobile frontend iOS Engineer working on the CommBank app."
+				"description": "Completed a 6 month internship with CBA as a mobile frontend iOS Engineer working on the CommBank app."
 			},
 			{
 				"company": "Atlassian",
