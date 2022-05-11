@@ -95,19 +95,7 @@ class Portfolio extends Component {
 					<Slide right>
 						<div
 							style={{
-								backgroundImage: 'url("images/manly1.jpeg")',
-								height: '100%',
-								backgroundSize: 'cover',
-								backgroundPosition: 'bottom',
-								position: 'relative',
-								texAlign: 'center'
-							}}
-						/>
-					</Slide>
-					<Slide right>
-						<div
-							style={{
-								backgroundImage: 'url("images/manly2.jpeg")',
+								backgroundImage: 'url("images/manly1.png")',
 								height: '100%',
 								backgroundSize: 'cover',
 								backgroundPosition: 'bottom',
