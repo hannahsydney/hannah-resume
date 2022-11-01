@@ -107,7 +107,7 @@ class Portfolio extends Component {
 					<Slide right>
 						<div
 							style={{
-								backgroundImage: 'url("images/fris4.png")',
+								backgroundImage: 'url("images/smu.png")',
 								height: '100%',
 								backgroundSize: 'cover',
 								backgroundPosition: 'bottom',
