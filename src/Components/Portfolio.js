@@ -104,6 +104,18 @@ class Portfolio extends Component {
 							}}
 						/>
 					</Slide>
+					<Slide right>
+						<div
+							style={{
+								backgroundImage: 'url("images/fris4.png")',
+								height: '100%',
+								backgroundSize: 'cover',
+								backgroundPosition: 'bottom',
+								position: 'relative',
+								texAlign: 'center'
+							}}
+						/>
+					</Slide>
 				</Carousel>
 			</section>
 		);

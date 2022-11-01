@@ -25,11 +25,11 @@ class Chinese extends Component {
 								</p>
 								<p>
 									Growing up as an Australian with a Chinese heritage, I have always been interested
-									in Mandarin and liguistics. I'm currently studying Mandarin Chinese with the online
+									in Mandarin and liguistics. I'm currently studying Mandarin Chinese with the Chinese
 									language school,{' '}
-									<a href="https://www.culturestride.com" style={{ color: 'inherit' }}>
-										CultureStride
-									</a>. I have also completed Introductory Chinese for Background Speakers at UNSW,
+									<a href="https://www.elitelinguistic.com/chinese-lesson-free-trial/ref/eln/?campaign=GAds&gclid=CjwKCAjwh4ObBhAzEiwAHzZYUxsYYOjpIAYOJ637Clh9BUJNh0-3nDkixoK23yTibZh8Mm5TyAa2QhoCUS8QAvD_BwE" style={{ color: 'inherit' }}>
+										Elite Linguistic Network Chinese Language School
+									</a>, here in Singapore. I have also completed Introductory Chinese for Background Speakers at UNSW,
 									achieving a final grade of 92.
 								</p>
 							</blockquote>

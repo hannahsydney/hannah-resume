@@ -3,13 +3,13 @@
 		"name": "Hannah",
 		"occupation": "Software Engineer",
 		"description": "",
-		"bio": "Hello! I'm a final year Software Engineering student at the University of New South Wales. As a UNSW Co-op Scholar, I have undertaken internships with Atlassian and Optus, and CBA. Most recently, I completed a summer internship at Canva as frontend engineer. At university, I was the President of the UNSW Co-op Society, and travelled to India under the New Colombo Plan Mobility Grant. In my spare time, I love to play Ultimate Frisbee and basketball, read and write, and play music. Currently, I am undertaking the UNSW Web Front-End Programming course, COMP6080. I was also recently selected into the 2021 cohort of the prestigious Westpac Asian Exchange Scholarship program. I hope to undertake my exchange program in China in 2022.",
+		"bio": "Hello! I'm a final year Software Engineering student from the University of New South Wales, currently undertaking a semester of exchange at Singapore Management University. As a UNSW Co-op Scholar, I have undertaken internships with Atlassian and Optus, and CBA. Most recently, I completed a summer internship at Canva as frontend engineer. At university, I was the President of the UNSW Co-op Society, and travelled to India under the New Colombo Plan Mobility Grant. In my spare time, I love to play Ultimate Frisbee and basketball, read and write, and play music. I was also selected into the 2021 cohort of the prestigious Westpac Asian Exchange Scholarship program, with which I am undertaking my exchange journey in Singapore.",
 		"contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
 		"email": "hannah.chen1109@gmail.com",
 		"phone": "555-555-5555",
 		"address": {
 			"street": "(Your Street)",
-			"city": "Sydney",
+			"city": "Singapore",
 			"state": "(Your State)",
 			"zip": "(Your Zip/Postal Code)"
 		},
@@ -37,9 +37,15 @@
 		"skillmessage": "Here you can create a short write-up of your skills to show off to employers",
 		"education": [
 			{
-				"school": "University of New South Wales",
+				"school": "Singapore Management University, Singapore",
+				"degree": "International Exchange at the School of Computing and Information Systems",
+				"graduated": "2022",
+				"description": "Natural Language Processing, Big Data Architecture, Interaction Design and Prototyping, Internet of Things, SMU Frisbee Club."
+			},
+			{
+				"school": "University of New South Wales, Australia",
 				"degree": "Bachelor of Software Engineering (Honours) (Co-op)",
-				"graduated": "2018 - Present",
+				"graduated": "2018 - 2022",
 				"description": "UNSW Co-op Scholar, President of UNSW Co-op Society, UNSW Burgundian Consort, UNSW Orchestra, CSESoc DevOps Subcommittee, UNSW Ultimate Club."
 			},
 			{
@@ -78,7 +84,7 @@
 			{
 				"company": "Private Tutor",
 				"title": "English and Maths",
-				"years": "2018 - Present",
+				"years": "2018 - 2022",
 				"description": "Specialised one-on-one tutoring of high school level English and Mathematics."
 			}
 		]
