@@ -3,7 +3,7 @@
 		"name": "Hannah",
 		"occupation": "Software Engineer",
 		"description": "",
-		"bio": "Hello! I'm a Software Engineer currently based in Sydney, with experience developing software at companies such as Canva, Atlassian, the Commonwealth Bank of Australia and Optus. A graduate from the University of New South Wales under the UNSW Co-op Scholarship, I completed a thesis which earned first class honours, titled 'SwingTrack: Smartphone motion tracking and visualisation for swing analysis.' I also undertook a semester of exchange at Singapore Management University, as a recipient of the prestigious Westpac Asian Exchange Scholarship. In my spare time, I love to play Ultimate Frisbee and basketball, read and write, and play music.",
+		"bio": "Hello! I'm a Software Engineer currently based in Sydney, with experience developing software at companies such as Canva, Atlassian, the Commonwealth Bank of Australia and Optus. A graduate from the University of New South Wales under the UNSW Co-op Scholarship, I completed a first-class honours thesis, titled 'SwingTrack: Smartphone motion tracking and visualisation for swing analysis.' I also undertook a semester of exchange at Singapore Management University, as a recipient of the prestigious Westpac Asian Exchange Scholarship. In my spare time, I love to play Ultimate Frisbee and basketball, read and write, and play music.",
 		"contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
 		"email": "hannah.chen1109@gmail.com",
 		"phone": "555-555-5555",
@@ -35,7 +35,7 @@
 				"school": "Singapore Management University, Singapore",
 				"degree": "International Exchange at the School of Computing and Information Systems",
 				"graduated": "2022",
-				"description": "Natural Language Processing, Big Data Architecture, Interaction Design and Prototyping, Internet of Things, SMU Frisbee Club."
+				"description": "SMU Incubation Program, Natural Language Processing, Big Data Architecture, Interaction Design and Prototyping, Internet of Things, SMU Frisbee Club."
 			},
 			{
 				"school": "University of New South Wales, Australia",
@@ -47,7 +47,7 @@
 		"work": [
 			{
 				"company": "Canva",
-				"title": "Fronted Engineer Intern",
+				"title": "Fronted Engineer",
 				"years": "December 2021 - Present",
 				"description": "Frontend software development (Typescript & React) for one of the leading & integral products in Canva, Presentations."
 			},
