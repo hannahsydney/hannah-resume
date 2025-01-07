@@ -39,7 +39,7 @@
 			},
 			{
 				"school": "University of New South Wales, Australia",
-				"degree": "Bachelor of Software Engineering (Honours) (Co-op)",
+				"degree": "Bachelor of Software Engineering (Honours Class I) (Co-op)",
 				"graduated": "2018 - 2022",
 				"description": "UNSW Co-op Scholar, President of UNSW Co-op Society, UNSW Burgundian Consort, UNSW Orchestra, CSESoc DevOps Subcommittee, UNSW Ultimate Club."
 			}
@@ -47,7 +47,7 @@
 		"work": [
 			{
 				"company": "Canva",
-				"title": "Fronted Engineer",
+				"title": "Frontend Engineer II",
 				"years": "December 2021 - Present",
 				"description": "Frontend software development (Typescript & React) for one of the leading & integral products in Canva, Presentations."
 			},
